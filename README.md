@@ -1,4 +1,1 @@
-
-<h2>My Portfolio</h2>
-<a href:"https://somil-portfolio123.netlify.app/">click here to visit</a>
-
+Check out my [portfolio website](https://somil-portfolio123.netlify.app/)!
